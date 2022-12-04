@@ -1,5 +1,5 @@
 # Algoritmes-Optimitzacio-gd
-Algoritmes Optimitzacio gd Treball de Recerca
+Treball de Recerca sobre els algoritmes Optimitzacio gd 
 
 #Contact: guimcarulla@gmail.com for any doubts
 
